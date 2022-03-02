@@ -1,296 +1,296 @@
 [{
-'language': 'Automatic'
+"language": "Automatic"
 },
 {
-'language': 'Afrikaans'
+"language": "Afrikaans"
 },
 {
-'language': 'Albanian'
+"language": "Albanian"
 },
 {
-'language': 'Amharic'
+"language": "Amharic"
 },
 {
-'language': 'Arabic'
+"language": "Arabic"
 },
 {
-'language': 'Armenian'
+"language": "Armenian"
 },
 {
-'language': 'Azerbaijani'
+"language": "Azerbaijani"
 },
 {
-'language': 'Basque'
+"language": "Basque"
 },
 {
-'language': 'Belarusian'
+"language": "Belarusian"
 },
 {
-'language': 'Bengali'
+"language": "Bengali"
 },
 {
-'language': 'Bosnian'
+"language": "Bosnian"
 },
 {
-'language': 'Bulgarian'
+"language": "Bulgarian"
 },
 {
-'language': 'Catalan'
+"language": "Catalan"
 },
 {
-'language': 'Cebuano'
+"language": "Cebuano"
 },
 {
-'language': 'Chichewa'
+"language": "Chichewa"
 },
 {
-'language': 'ChineseSimplified'
+"language": "ChineseSimplified"
 },
 {
-'language': 'Chinese Traditional'
+"language": "Chinese Traditional"
 },
 {
-'language': 'Corsican'
+"language": "Corsican"
 },
 {
-'language': 'Croatian'
+"language": "Croatian"
 },
 {
-'language': 'Czech'
+"language": "Czech"
 },
 {
-'language': 'Danish'
+"language": "Danish"
 },
 {
-'language': 'Dutch'
+"language": "Dutch"
 },
 {
-'language': 'English'
+"language": "English"
 },
 {
-'language': 'Estonian'
+"language": "Estonian"
 },
 {
-'language': 'Filipino'
+"language": "Filipino"
 },
 {
-'language': 'Finnish'
+"language": "Finnish"
 },
 {
-'language': 'French'
+"language": "French"
 },
 {
-'language': 'Frisian'
+"language": "Frisian"
 },
 {
-'language': 'Galician'
+"language": "Galician"
 },
 {
-'language': 'German'
+"language": "German"
 },
 {
-'language': 'Greek'
+"language": "Greek"
 },
 {
-'language': 'Haitian Creole'
+"language": "Haitian Creole"
 },
 {
-'language': 'Hausa'
+"language": "Hausa"
 },
 {
-'language': 'Hebrew'
+"language": "Hebrew"
 },
 {
-'language': 'Hindi'
+"language": "Hindi"
 },
 {
-'language': 'Hmong'
+"language": "Hmong"
 },
 {
-'language': 'Hungarian'
+"language": "Hungarian"
 },
 {
-'language': 'Icelandic'
+"language": "Icelandic"
 },
 {
-'language': 'Igbo'
+"language": "Igbo"
 },
 {
-'language': 'Indonesian'
+"language": "Indonesian"
 },
 {
-'language': 'Irish'
+"language": "Irish"
 },
 {
-'language': 'Italian'
+"language": "Italian"
 },
 {
-'language': 'Japanese'
+"language": "Japanese"
 },
 {
-'language': 'Javanese'
+"language": "Javanese"
 },
 {
-'language': 'Kannada'
+"language": "Kannada"
 },
 {
-'language': 'Kazakh'
+"language": "Kazakh"
 },
 {
-'language': 'Khmer'
+"language": "Khmer"
 },
 {
-'language': 'Korean'
+"language": "Korean"
 },
 {
-'language': 'Kurdish (Kurmanji)'
+"language": "Kurdish (Kurmanji)"
 },
 {
-'language': 'Kyrgyz'
+"language": "Kyrgyz"
 },
 {
-'language': 'Lao'
+"language": "Lao"
 },
 {
-'language': 'Latvian'
+"language": "Latvian"
 },
 {
-'language': 'Lithuanian'
+"language": "Lithuanian"
 },
 {
-'language': 'Luxembourgish'
+"language": "Luxembourgish"
 },
 {
-'language': 'Macedonian'
+"language": "Macedonian"
 },
 {
-'language': 'Malagasy'
+"language": "Malagasy"
 },
 {
-'language': 'Malay'
+"language": "Malay"
 },
 {
-'language': 'Malayalam'
+"language": "Malayalam"
 },
 {
-'language': 'Maltese'
+"language": "Maltese"
 },
 {
-'language': 'Maori'
+"language": "Maori"
 },
 {
-'language': 'Mongolian'
+"language": "Mongolian"
 },
 {
-'language': 'Myanmar (Burmese)'
+"language": "Myanmar (Burmese)"
 },
 {
-'language': 'Nepali'
+"language": "Nepali"
 },
 {
-'language': 'Norwegian'
+"language": "Norwegian"
 },
 {
-'language': 'Pashto'
+"language": "Pashto"
 },
 {
-'language': 'Persian'
+"language": "Persian"
 },
 {
-'language': 'Polish'
+"language": "Polish"
 },
 {
-'language': 'Portuguese'
+"language": "Portuguese"
 },
 {
-'language': 'Punjabi'
+"language": "Punjabi"
 },
 {
-'language': 'Romanian'
+"language": "Romanian"
 },
 {
-'language': 'Russian'
+"language": "Russian"
 },
 {
-'language': 'Samoan'
+"language": "Samoan"
 },
 {
-'language': 'Scots Gaelic'
+"language": "Scots Gaelic"
 },
 {
-'language': 'Serbian'
+"language": "Serbian"
 },
 {
-'language': 'Sesotho'
+"language": "Sesotho"
 },
 {
-'language': 'Shona'
+"language": "Shona"
 },
 {
-'language': 'Sindhi'
+"language": "Sindhi"
 },
 {
-'language': 'Sinhala'
+"language": "Sinhala"
 },
 {
-'language': 'Slovak'
+"language": "Slovak"
 },
 {
-'language': 'Slovenian'
+"language": "Slovenian"
 },
 {
-'language': 'Somali'
+"language": "Somali"
 },
 {
-'language': 'Spanish'
+"language": "Spanish"
 },
 {
-'language': 'Sundanese'
+"language": "Sundanese"
 },
 {
-'language': 'Swahili'
+"language": "Swahili"
 },
 {
-'language': 'Swedish'
+"language": "Swedish"
 },
 {
-'language': 'Tajik'
+"language": "Tajik"
 },
 {
-'language': 'Tamil'
+"language": "Tamil"
 },
 {
-'language': 'Telugu'
+"language": "Telugu"
 },
 {
-'language': 'Thai'
+"language": "Thai"
 },
 {
-'language': 'Turkish'
+"language": "Turkish"
 },
 {
-'language': 'Ukrainian'
+"language": "Ukrainian"
 },
 {
-'language': 'Urdu'
+"language": "Urdu"
 },
 {
-'language': 'Uzbek'
+"language": "Uzbek"
 },
 {
-'language': 'Uyghur'
+"language": "Uyghur"
 },
 {
-'language': 'Vietnamese'
+"language": "Vietnamese"
 },
 {
-'language': 'Xhosa'
+"language": "Xhosa"
 },
 {
-'language': 'Yoruba'
+"language": "Yoruba"
 },
 {
-'language': 'Zulu'
+"language": "Zulu"
 }]
 
 
